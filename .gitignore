@@ -1,9 +1,15 @@
 # Ignore everything
 *
 
+# Dont Ignore
+!docker-compose.yml
+
 # Exclude .gitignore from being ignored
 !.gitignore
 
+# Exclude php directory
+!php
+!php/**
 
 # Force Igore Files
 .DS_Store
