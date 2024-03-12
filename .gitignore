@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Exclude .gitignore from being ignored
+!.gitignore
+
+
+# Force Igore Files
+.DS_Store
+node_modules
